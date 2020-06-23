@@ -9,6 +9,9 @@ $ git clone https://github.com/code-india-code/desi-cam-scanner.git
 ``` 
 $ npm install
 ```
+```
+$ npm install expo-cli --global
+```
  
 - running the app in our system  
 ```
